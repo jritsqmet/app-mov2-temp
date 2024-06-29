@@ -10,7 +10,8 @@ export default function App() {
 
       <Text style={{ fontSize:50}}>APLICACIÓN</Text>
       <Text style={styles.Text} >Jonathan</Text>
-     
+    
+
       <Text style={styles.txt}>Juan Paz</Text>
 
 
