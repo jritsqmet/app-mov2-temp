@@ -5,6 +5,8 @@ export default function App() {
   return (
     <View style={styles.container}>
       <Text style={{ fontSize:50}}>APLICACIÓN</Text>
+      <Text style={styles.txt}>Juan Paz</Text>
+
 
       <StatusBar style="auto" />
     </View>
@@ -14,8 +16,12 @@ export default function App() {
 const styles = StyleSheet.create({
   container: {
     flex: 1,
-    backgroundColor: '#fff',
+    backgroundColor: '#666',
     alignItems: 'center',
     justifyContent: 'center',
   },
+  txt:{
+    color: 'blue',
+    fontSize:40
+  }
 });
