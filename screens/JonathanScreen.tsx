@@ -5,6 +5,7 @@ export default function CamaraScreen() {
   return (
     <View>
       <Text>CamaraScreen</Text>
+      <Text>............</Text>
     </View>
   )
 }
