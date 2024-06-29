@@ -5,7 +5,9 @@ export default function App() {
   return (
     <View style={styles.container}>
       <Text style={styles.title}>APLICACIÓN</Text>
-      <Text style={styles.subtitle}>Adrian Ybañez</Text>
+      <Text style={styles.subtitle}>Adrian SI VALIO, CHATOOO</Text>
+      <Text style={{ fontSize:50}}>James 😎</Text>
+    <Text style={styles.textito}>Elianaaaaaaaaaaaaaa</Text>
       <StatusBar style="auto" />
     </View>
   );
@@ -16,7 +18,7 @@ const styles = StyleSheet.create({
     flex: 1,
     justifyContent: 'center',
     alignItems: 'center',
-    backgroundColor: '#f0f0f0', // color de fondo
+    backgroundColor: '#008080', // color de fondo
   },
   title: {
     fontSize: 28,
@@ -25,7 +27,18 @@ const styles = StyleSheet.create({
     color: '#333', // color del texto
   },
   subtitle: {
-    fontSize: 18,
-    color: '#666', // color del texto secundario
+    fontSize: 30,
+    color: '#000000', // color del texto secundario
   },
+  text:{
+  fontSize:50,
+  color: 'white'
+  },
+  textito:{
+  fontSize: 50,
+  color: 'pink',
+  
+  }
 });
+    
+  
