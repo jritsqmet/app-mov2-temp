@@ -23,11 +23,14 @@ export default function App() {
   );
 }
 
+
+
 const styles = StyleSheet.create({
   container: {
     flex: 1,
     alignItems: 'center',
     justifyContent: 'center',
+ 
     backgroundColor: '#008080', // color de fondo
   },
   title: {
