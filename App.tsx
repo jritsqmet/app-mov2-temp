@@ -19,6 +19,7 @@ export default function App() {
     <Text style={styles.textito}>Elianaaaaaaaaaaaaaa</Text>
 
     <Text style={ {fontSize: 30}}> Randy </Text>
+    
       <StatusBar style="auto" />
     </View>
   );
