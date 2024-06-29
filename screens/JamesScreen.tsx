@@ -1,10 +1,14 @@
-import { StyleSheet, Text, View } from 'react-native'
+import { Button, StyleSheet, Text, View } from 'react-native'
 import React from 'react'
 
 const JamesScreen = () => {
   return (
     <View>
       <Text>JamesScreen</Text>
+      <Text>Que ventamna más fea</Text>
+      <Button
+      title='FEO JAMES'
+      ></Button>
     </View>
   )
 }
