@@ -5,6 +5,7 @@ const RandyScreen = () => {
   return (
     <View>
       <Text>RandyScreen</Text>
+      <text> Bienvenidos a mi Ventana </text>
     </View>
   )
 }
