@@ -33,13 +33,13 @@ const styles = StyleSheet.create({
     backgroundColor: '#008080', // color de fondo
   },
   title: {
-    fontSize: 28,
+    fontSize: 30,
     fontWeight: 'bold',
     marginBottom: 20,
     color: '#333', // color del texto
   },
   subtitle: {
-    fontSize: 30,
+    fontSize: 35,
     color: '#000000', // color del texto secundario
   },
   Text:{
