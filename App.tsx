@@ -9,6 +9,7 @@ export default function App() {
       <Text style={styles.txt}>Juan Paz</Text>
 
 
+      <Text style={{ fontSize:50}}>James 😎</Text>
     <Text style={styles.textito}>Elianaaaaaaaaaaaaaa</Text>
       <StatusBar style="auto" />
     </View>
@@ -26,9 +27,14 @@ const styles = StyleSheet.create({
   txt:{
     color: 'blue',
     fontSize:40
+   },
+  text:{
+    fontSize:50,
+    color: 'white'
   },
   textito:{
     fontSize: 50,
     color: 'pink',
+
   }
   })
