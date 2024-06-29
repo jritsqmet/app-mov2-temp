@@ -5,6 +5,7 @@ export default function AdrianScreen() {
   return (
     <View>
       <Text>AdrianScreen</Text>
+      <Text>HOLASS</Text>
     </View>
   )
 }
