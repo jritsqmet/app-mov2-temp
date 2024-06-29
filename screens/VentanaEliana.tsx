@@ -7,6 +7,17 @@ export default function VentanaEliana() {
       <Text>VentanaEliana</Text>
       <Text>No estes cambiando mi ventana  James</Text>
       <Text>sILENCIO JAMES</Text>
+      <Text>Hola :b</Text>
+      <Text>Hola :b</Text>
+      <Text>Hola :b</Text>
+      <Text>Hola :b</Text>
+      <Text>Hola :b</Text>
+      <Text>Hola :b</Text>
+      <Text>Hola :b</Text>
+      <Text>Hola :b</Text>
+      <Text>Hola :b</Text>
+      <Text>Hola :b</Text>
+      <Text>Hola :b</Text>
     </View>
   )
 }

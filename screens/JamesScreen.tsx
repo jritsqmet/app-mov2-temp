@@ -9,6 +9,7 @@ const JamesScreen = () => {
       <Button
       title='FEO JAMES'
       ></Button>
+      <Text>NO ERES BIENVENIDA ELIANA FEA :b</Text>
     </View>
   )
 }
