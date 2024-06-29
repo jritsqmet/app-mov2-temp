@@ -30,7 +30,7 @@ const styles = StyleSheet.create({
     flex: 1,
     alignItems: 'center',
     justifyContent: 'center',
- 
+
     backgroundColor: '#008080', // color de fondo
   },
   title: {
@@ -40,6 +40,7 @@ const styles = StyleSheet.create({
     color: '#333', // color del texto
   },
   subtitle: {
+    fontFamily: 'Times New Roman',
     fontSize: 35,
     color: '#000000', // color del texto secundario
   },
