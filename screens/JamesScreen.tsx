@@ -8,8 +8,9 @@ const JamesScreen = () => {
       <Text>NO ERES BIENVENIDA ELIANA FEA :b</Text>
       <Button
       title='f'>
-
+        
       </Button>
+   
     </View>
   )
 }
