@@ -6,9 +6,6 @@ const JamesScreen = () => {
     <View>
       <Text>JamesScreen</Text>
       <Text>Que ventamna más fea</Text>
-      <Button
-      title='FEO JAMES'
-      ></Button>
       <Text>NO ERES BIENVENIDA ELIANA FEA :b</Text>
     </View>
   )
