@@ -5,7 +5,8 @@ export default function App() {
   return (
     <View style={styles.container}>
       <Text style={{ fontSize:50}}>APLICACIÓN</Text>
-
+      <Text style={{ fontSize:50}}>James 😎</Text>
+    <Text style={styles.textito}>Elianaaaaaaaaaaaaaa</Text>
       <StatusBar style="auto" />
     </View>
   );
@@ -17,5 +18,15 @@ const styles = StyleSheet.create({
     backgroundColor: '#fff',
     alignItems: 'center',
     justifyContent: 'center',
+    
   },
+  text:{
+    fontSize:50,
+    color: 'white'
+  },
+  textito:{
+    fontSize: 50,
+    color: 'pink',
+
+  }
 });
