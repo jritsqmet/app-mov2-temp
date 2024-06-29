@@ -5,13 +5,10 @@ export default function App() {
   return (
     <View style={styles.container}>
       <Text style={{ fontSize:50}}>APLICACIÓN</Text>
-<<<<<<< HEAD
       <Text style={styles.Text} >Jonathan</Text>
-=======
      
       <Text style={styles.txt}>Juan Paz</Text>
 
->>>>>>> 1521ce88246d9bd9e9eabed6b13c6285a473b1bf
 
       <Text style={{ fontSize:50}}>James 😎</Text>
     <Text style={styles.textito}>Elianaaaaaaaaaaaaaa</Text>
