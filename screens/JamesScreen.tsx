@@ -11,6 +11,7 @@ const JamesScreen = () => {
 
       </Button>
       <Text>Hello World!!!</Text>
+      <Button title='Hola'/>
     </View>
   )
 }
