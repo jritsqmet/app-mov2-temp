@@ -5,10 +5,10 @@ export default function WelcomeScreen() {
   return (
     <View>
       <Text>WelcomeScreen</Text>
-      <text.style= {(fontSize 50)}> APLICACION</text>
+      <Text style= {{fontSize: 50}}> APLICACION</Text>
       <Text> RANDY </Text>
     </View>
-  )
+  );
 }
 
 const styles = StyleSheet.create({})
