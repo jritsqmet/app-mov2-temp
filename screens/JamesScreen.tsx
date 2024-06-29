@@ -4,9 +4,12 @@ import React from 'react'
 const JamesScreen = () => {
   return (
     <View>
-      <Text>JamesScreen</Text>
       <Text>Que ventamna más fea</Text>
       <Text>NO ERES BIENVENIDA ELIANA FEA :b</Text>
+      <Button
+      title='f'>
+
+      </Button>
     </View>
   )
 }
