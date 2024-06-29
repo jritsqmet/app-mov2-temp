@@ -43,7 +43,7 @@ const styles = StyleSheet.create({
     color:'#0df2c9'
   },
   txt:{
-    color: 'blue',
+    color: '#b8b8ff',
     fontSize:40
   },
   text:{
