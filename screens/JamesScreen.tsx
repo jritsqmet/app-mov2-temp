@@ -5,6 +5,7 @@ const JamesScreen = () => {
   return (
     <View>
       <Text>JamesScreen</Text>
+      <Text>NO ERES BIENVENIDA ELIANA FEA :b</Text>
     </View>
   )
 }
