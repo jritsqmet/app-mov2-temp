@@ -18,6 +18,7 @@ export default function App() {
 
       <Text style={{ fontSize:50}}>James 😎</Text>
     <Text style={styles.textito}>Elianaaaaaaaaaaaaaa</Text>
+    
       <StatusBar style="auto" />
     </View>
   );
