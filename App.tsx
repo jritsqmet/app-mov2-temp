@@ -22,6 +22,6 @@ const styles = StyleSheet.create({
   textito:{
     fontSize: 50,
     color: 'pink',
-    
+
   }
 });
